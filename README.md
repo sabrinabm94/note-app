@@ -1,8 +1,11 @@
 # note-app
 A simple multiplataform note app
 
-_____________
+---
 
 # Contact
+
 Sabrina B.
-sabrinabm94@gmail.com
+See my profile [here](https://github.com/sabrinabm94/about/blob/main/README.md)
+<sabrinabm94@gmail.com>
+
